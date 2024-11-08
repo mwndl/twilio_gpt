@@ -1,0 +1,21 @@
+ID_Cliente,Nome_Cliente,Valor_Divida,Valor_Negociado,Data_Negociacao,Prazo_Pagamento,Status_Negociacao
+1,Carlos Silva,15000,12000,2024-01-15,6 meses,Concluída
+2,Maria Souza,20000,18000,2024-02-10,12 meses,Em Andamento
+3,João Santos,5000,4000,2024-03-05,3 meses,Concluída
+4,Ana Oliveira,12000,10000,2024-04-20,9 meses,Em Andamento
+5,Pedro Costa,8000,7000,2024-05-25,6 meses,Concluída
+6,Juliana Almeida,10000,8500,2024-06-18,12 meses,Em Andamento
+7,Marcos Ferreira,4000,3500,2024-07-22,3 meses,Concluída
+8,Fernanda Lima,25000,22000,2024-08-10,18 meses,Em Andamento
+9,Rafael Gomes,3000,2500,2024-09-05,2 meses,Concluída
+10,Bruna Rocha,15000,13000,2024-10-15,12 meses,Em Andamento
+11,Lucas Mendes,18000,16000,2024-11-01,9 meses,Em Andamento
+12,Camila Martins,12000,10500,2024-11-20,6 meses,Concluída
+13,José Araújo,22000,19000,2024-12-10,12 meses,Em Andamento
+14,Paula Freitas,9000,8000,2024-12-22,6 meses,Concluída
+15,Roberto Farias,5000,4500,2024-01-12,3 meses,Concluída
+16,Carolina Ribeiro,14000,12500,2024-02-01,9 meses,Em Andamento
+17,Felipe Matos,10000,9000,2024-03-08,6 meses,Concluída
+18,Letícia Vieira,25000,22000,2024-04-25,12 meses,Em Andamento
+19,Diego Andrade,11000,9500,2024-05-15,6 meses,Concluída
+20,Clara Nunes,20000,17500,2024-06-20,12 meses,Em Andamento
